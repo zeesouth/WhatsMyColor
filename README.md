@@ -3,8 +3,12 @@
 - KW 3-2 Web Programming Final Project 
 <br/>
 
-## 🗓️ Project Duration
-+ 2022.05 ~ 2022.06
+## 🗓️ Introduction
++ 퍼스널 컬러는 왜 중요할까?
+  + 이제는 유행따라 가는 시대가 아닌, 개성 시대
+  + 퍼스널 컬러의 개인에게 가장 잘 어울리는 색을 진단하여 계절에 맞는 색으로 단점은 보완하고 장점을 극대화시켜 긍정적이고, 자신감 있는 이미지를 연출한다는 특성은 요즘 시대에 걸맞는 중요한 키워드.
+  
++ Duration : 2022.05 ~ 2022.06
 <br/>
 
 ## 🛠️ Development Environment
@@ -18,7 +22,7 @@
   <img width="700" align="center" alt="image" src="https://user-images.githubusercontent.com/90493141/205485730-4f12df36-c09e-4e8b-933e-87a5e3ff2280.png">
 <br/>
 
-## 🕹️ Feature Introduction
+## 🕹️ Feature
 <a href="https://github.com/nemzeet/WhatsMyColor/edit/main/README.md#1-home">🏠 HOME</a>&nbsp;&nbsp; • &nbsp;&nbsp;<a href="https://github.com/nemzeet/WhatsMyColor/edit/main/README.md#2-%ED%8D%BC%EC%8A%A4%EB%84%90%EC%BB%AC%EB%9F%AC">☑️ 퍼스널컬러</a>&nbsp;&nbsp; • &nbsp;&nbsp;<a href="https://github.com/nemzeet/WhatsMyColor/edit/main/README.md#3-%EC%BB%AC%EB%9F%AC%ED%8C%94%EB%A0%88%ED%8A%B8">ℹ️ 컬러팔레트</a>&nbsp;&nbsp; • &nbsp;&nbsp;<a href="https://github.com/nemzeet/WhatsMyColor/edit/main/README.md#4-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0">👥 커뮤니티</a>&nbsp;&nbsp; • &nbsp;&nbsp;<a href="https://github.com/nemzeet/WhatsMyColor/edit/main/README.md#5-%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80">⚙️ 마이페이지</a>&nbsp;&nbsp;
 <br/>
 
@@ -34,6 +38,9 @@
   <br/>
   
 #### 2. 퍼스널컬러
+  + 퍼스널컬러 테스트 및 퍼스널 컬러 분류에 대한 정보를 제공하는 메뉴
+  <br/>
+  
   1. 퍼스널컬러 테스트 
   + 테스트 시작 페이지
   
@@ -71,7 +78,68 @@
   <br/>
   
 #### 3. 컬러팔레트
+  
+  1. 옷
+  
+     <img width="800" alt="image" src="https://user-images.githubusercontent.com/90493141/205535291-6d0dde8e-cd9a-45fa-a96d-8b52710ea31e.png">
+
+     + 각 퍼스널 컬러별로 옷에 대한 컬러팔레트를 제공한다.
+     + 사용자 본인의 퍼스널컬러에 맞는 옷 컬러팔레트를 참고하여, 옷을 코디할 때 색상 선택에 도움이 될 수 있도록 한다.
+  <br/>
+  
+  2. 메이크업 제품
+  
+     <img width="800" alt="image" src="https://user-images.githubusercontent.com/90493141/205535212-70820656-e8bd-4627-8f6b-4b90886332b0.png">
+     
+     + 각 퍼스널 컬러별로 메이크업에 대한 컬러팔레트와, 색조 화장품 추천 리스트를 제공한다.
+     + 사용자 본인의 퍼스널컬러에 맞는 메이크업 컬러팔레트, 추천 색조 화장품을 참고하여 메이크업 제품을 구매하거나 메이크업을 할 때 색상 선택에 도움이 될 수 있도록 한다.
+     <br/>
+     
 #### 4. 커뮤니티
+     
+  + <b>메이크업, 옷, 기타</b>의 세 가지 카테고리로 커뮤니티 기능을 제공한다.
+  + 사용자들이 커뮤니티 기능을 활용하여 각 카테고리 별로 정보 공유를 할 수 있도록 한다.
+  <br/>
+     
+  1. 게시글 리스트 조회 
+     
+     <img width="800" alt="image" src="https://user-images.githubusercontent.com/90493141/205552044-bc95a907-25eb-49f1-a6b0-f204fbdd707a.png">
+     
+     + 카테고리 별로 게시글 리스트를 최신 작성순으로 조회한다.
+     + <b>제목 또는 작성자</b>를 기반으로 검색 및 조회할 수 있다.
+     + 한 페이지당 10개의 리스트를 조회하며, 하단의 페이지 번호를 클릭해 <b>이전/이후의 게시물 리스트를 조회</b>할 수 있다.
+     + 작성하기 버튼을 누르면 해당 카테고리의 <b>게시글 작성하기</b> 페이지로 이동한다.
+     + 게시글 리스트의 특정 게시물의 제목을 누르면 <b>게시글 상세보기</b> 페이지로 이동한다.
+     <br/>
+  
+  2. 게시글 작성하기
+     
+     <img width="800" alt="image" src="https://user-images.githubusercontent.com/90493141/205553200-0f68c73e-2f48-4df7-89b2-c6322d481f44.png">
+     
+     + 제목 및 내용 작성(필수), 파일 첨부(선택)를 하여 작성할 수 있다.
+     + 우측 상단의 드롭다운 바를 선택하여 카테고리를 변경하여 게시글을 작성할 수 있다.
+     <br/>
+  
+  3. 게시글 상세보기
+  
+       <img width="800" alt="image" src="https://user-images.githubusercontent.com/90493141/205553809-338b1768-6116-48f4-9239-40e4dd33d9aa.png">
+       
+       + 카테고리 별로 모든 작성된 게시물 상세보기가 가능하다.
+       + 자신이 작성한 게시글은 수정 및 삭제할 수 있다.
+       + 다른사람이 작성한 게시글은 상세보기만 가능하다.
+       <br/>
+       
+  4. 게시글 수정하기
+       
+       <img width="800" alt="image" src="https://user-images.githubusercontent.com/90493141/205554208-0dec37a1-b052-4378-908e-aa97e150e818.png">
+       
+       
+
+
+
+     
+  
+
 #### 5. 마이페이지
 
 <br/>
