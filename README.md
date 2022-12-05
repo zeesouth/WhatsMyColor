@@ -1,7 +1,7 @@
 # What's My Color?
-- <b>Personal Color</b> Web Page 
+- <b>Personal Color</b> Web Page 💄
 - KW 3-2 Web Programming Final Project 
-- Duration : 2022.05 ~ 2022.06
+- Duration : 2021.05 ~ 2021.06
 <br/>
 
 ## 🗓️ Introduction
