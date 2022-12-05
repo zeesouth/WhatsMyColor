@@ -23,7 +23,7 @@
 <br/>
 
 ## 🕹️ Feature
-<a href="https://github.com/nemzeet/WhatsMyColor/edit/main/README.md#1-home">🏠 HOME</a>&nbsp;&nbsp; • &nbsp;&nbsp;<a href="https://github.com/nemzeet/WhatsMyColor/edit/main/README.md#2-%ED%8D%BC%EC%8A%A4%EB%84%90%EC%BB%AC%EB%9F%AC">☑️ 퍼스널컬러</a>&nbsp;&nbsp; • &nbsp;&nbsp;<a href="https://github.com/nemzeet/WhatsMyColor/edit/main/README.md#3-%EC%BB%AC%EB%9F%AC%ED%8C%94%EB%A0%88%ED%8A%B8">ℹ️ 컬러팔레트</a>&nbsp;&nbsp; • &nbsp;&nbsp;<a href="https://github.com/nemzeet/WhatsMyColor/edit/main/README.md#4-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0">👥 커뮤니티</a>&nbsp;&nbsp; • &nbsp;&nbsp;<a href="https://github.com/nemzeet/WhatsMyColor/edit/main/README.md#5-%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80">⚙️ 마이페이지</a>&nbsp;&nbsp;
+<a href="https://github.com/zeesouth/WhatsMyColor#1-home">🏠 HOME</a>&nbsp;&nbsp; • &nbsp;&nbsp;<a href="https://github.com/zeesouth/WhatsMyColor#2-%ED%8D%BC%EC%8A%A4%EB%84%90%EC%BB%AC%EB%9F%AC">☑️ 퍼스널컬러</a>&nbsp;&nbsp; • &nbsp;&nbsp;<a href="https://github.com/zeesouth/WhatsMyColor#3-%EC%BB%AC%EB%9F%AC%ED%8C%94%EB%A0%88%ED%8A%B8">ℹ️ 컬러팔레트</a>&nbsp;&nbsp; • &nbsp;&nbsp;<a href="https://github.com/zeesouth/WhatsMyColor#4-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0">👥 커뮤니티</a>&nbsp;&nbsp; • &nbsp;&nbsp;<a href="https://github.com/zeesouth/WhatsMyColor#5-%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80">⚙️ 마이페이지</a>&nbsp;&nbsp;
 <br/>
 
 #### 0. 개요
